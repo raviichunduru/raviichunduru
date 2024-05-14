@@ -1,9 +1,7 @@
 Hi 👋 My name is Raghavaiah Chunduru
 ====================================
 
-I am a passionate Test Lead with well-rounded skill sets in software testing and automation.
-I can design, build, code, debug and maintain robust automation frameworks both independently and in a team.
-My background in functional and automation testing, helps me build test automation frameworks that are effective and efficient. My approach in building frameworks is to stay practical and evolve them as per the needs of the project.
+I am a passionate Test Lead with well-rounded skill sets in software testing and automation with 11 years of diverse experience. I can design, build, code, debug and maintain robust automation frameworks both independently and in a team. My background in functional and automation testing, helps me build test automation frameworks that are effective and efficient. My approach in building frameworks is to stay practical and evolve them as per the needs of the project.
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [https://github.com/stars/raviichunduru/lists/frameworks](http://github.com/stars/raviichunduru/lists/frameworks)
@@ -34,5 +32,7 @@ My background in functional and automation testing, helps me build test automati
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/raviichunduru/SeleniumFramework" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raviichunduru&repo=SeleniumFramework&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/raviichunduru/RESTAssured_Framework" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raviichunduru&repo=RESTAssured_Framework&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/raviichunduru/CompleteFrameWork" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raviichunduru&repo=CompleteFrameWork&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/raviichunduru/MasterFramework" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raviichunduru&repo=MasterFramework&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
