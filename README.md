@@ -1,7 +1,7 @@
 Hi 👋 My name is Raghavaiah Chunduru
 ====================================
 
-I am a passionate Test Lead with well-rounded skill sets in software testing and automation with 11 years of diverse experience. I can design, build, code, debug and maintain robust automation frameworks both independently and in a team. My background in functional and automation testing, helps me build test automation frameworks that are effective and efficient. My approach in building frameworks is to stay practical and evolve them as per the needs of the project.
+I am a passionate Test Lead with well-rounded skill sets in software testing and automation with 13 years of diverse experience. I can design, build, code, debug and maintain robust automation frameworks both independently and in a team. My background in functional and automation testing, helps me build test automation frameworks that are effective and efficient. My approach in building frameworks is to stay practical and evolve them as per the needs of the project.
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [https://github.com/stars/raviichunduru/lists/frameworks](http://github.com/stars/raviichunduru/lists/frameworks)
