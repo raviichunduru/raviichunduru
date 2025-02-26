@@ -5,7 +5,6 @@ I am a passionate SDET with well-rounded skill sets in software testing and auto
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [https://github.com/stars/raviichunduru/lists/frameworks](http://github.com/stars/raviichunduru/lists/frameworks)
-* ✉️  You can contact me at [chundururaghavaiah@gmail.com](mailto:chundururaghavaiah@gmail.com)
 
 ### Skills
 
